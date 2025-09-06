@@ -1,3 +1,4 @@
 # NETFLIX_CLONE
-# NETFLIX_CLONE
-# Netflix-Clone
+
+live link --> 
+https://netflix-clone-seven-liard.vercel.app/
